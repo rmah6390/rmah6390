@@ -14,7 +14,7 @@
 
 
 ## 🛠️ Technical Skills
-- Languages:Python, Java, C, SQL, JavaScript, HTML/CSS  
+- Languages: Python, Java, C, SQL, JavaScript, HTML/CSS  
 - Tools: Git, Linux, Power Automate, VS Code, Microsft Dynamics  
 - Cloud/DB: Azure, MySQL, SQLite  
 
