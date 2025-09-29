@@ -17,6 +17,11 @@
 - Cloud/DB: Azure, MySQL, SQLite, REST APIs, Workflow Automation, Agile, Responsive Web Design, Shell Scripting
 
 
+## Featured Project
+- Discord Bot (Python): Beginner-friendly bot with `!ping`, `!roll`, and per-server JSON TODOs.  
+  Repo: https://github.com/rmah6390/discord-bot-python
+
+
 ## 📫 Connect With Me
 www.linkedin.com/in/ridha-mahmood
 📧 rmah6390@gmail.com
