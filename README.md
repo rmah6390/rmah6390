@@ -1,9 +1,8 @@
-# Hi, I'm Ridha 👋
+# Hi, I'm Ridha 
 
 🎓 Computer Science Student @ George Mason University (Class of 2026)  
 💻 Aspiring Software Engineer | Automation Enthusiast | Problem Solver  
-☁️ Certified: Azure Database Administrator Associate | QuickBooks  
-
+☁️ Certified: Azure Database Administrator Associate | QuickBooks | Google: Operating Systems interacting with Python
 
 
 ## 🚀 About Me
@@ -12,12 +11,11 @@
 - Transitioning from finance automation into software engineering.  
 
 
-
 ## 🛠️ Technical Skills
 - Languages: Python, Java, C, SQL, JavaScript, HTML/CSS  
-- Tools: Git, Linux, Power Automate, VS Code, Microsft Dynamics  
-- Cloud/DB: Azure, MySQL, SQLite  
-
+- Tools: Git, Linux/Unix, Power Automate, VS Code, Microsft Dynamics, Microsoft Office Suite, QuickBooks, Squarespace 
+- Cloud/DB: Azure, MySQL, SQLite, REST APIs, Workflow Automation, Agile, Responsive Web Design, Shell Scripting
+  
 
 ## 📫 Connect With Me
 www.linkedin.com/in/ridha-mahmood
