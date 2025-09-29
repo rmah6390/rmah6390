@@ -15,7 +15,7 @@
 - Languages: Python, Java, C, SQL, JavaScript, HTML/CSS  
 - Tools: Git, Linux/Unix, Power Automate, VS Code, Microsft Dynamics, Microsoft Office Suite, QuickBooks, Squarespace 
 - Cloud/DB: Azure, MySQL, SQLite, REST APIs, Workflow Automation, Agile, Responsive Web Design, Shell Scripting
-  
+
 
 ## 📫 Connect With Me
 www.linkedin.com/in/ridha-mahmood
