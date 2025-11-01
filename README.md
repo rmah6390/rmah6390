@@ -23,13 +23,13 @@ Computer Science student (Software Engineering minor) who ships small, reliable 
 
 ## Projects
 
-**Ridha-GPT (Personal Profile Assistant)** — React, Vite, Tailwind, Netlify Functions, OpenAI API
+**Ridha-GPT (Personal Profile Assistant)** - React, Vite, Tailwind, Netlify Functions, OpenAI API
 
 * Chat-style app that answers recruiter questions in sentences using retrieval over a structured JSON profile.
 * Implemented clean API layers, error handling, and environment-based config, deployed by serverless functions.                                                                 
     **Repo:** github.com/rmah6390/ridha-gpt   • **Live:** [https://ridha-gpts.netlify.app](https://ridha-gpts.netlify.app)
 
-**Discord Bot (Python)** — discord.py, JSON storage, OAuth2
+**Discord Bot (Python)** - discord.py, JSON storage, OAuth2
 
 * Built and deployed a prefix-command bot with `!ping`, `!hello`, and per-server TODOs, minimal permissions and token in env.
 * Added simple logging and a readable README so anyone can run it locally in minutes.                                                         
