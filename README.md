@@ -20,8 +20,10 @@ Computer Science student (Software Engineering minor) who ships small, reliable 
 **Concepts:** Event-driven programming, serverless, RAG, CI, logging, auth/secrets
 
 ---
-### Safefier – Hackathon Project  
-**Role: Backend Developer + Documentation**
+### Hackathon Projects
+
+ **Safefier - AI Safety Layer for Chatbots**  
+*Role: Backend Developer + Documentation*
 
 - Worked on the backend safety logic and hallucination-detection checks  
 - Helped create the team slide deck for the demo  
