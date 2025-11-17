@@ -14,10 +14,10 @@ Computer Science student (Software Engineering minor) who ships small, reliable 
 ## Technical Skills
 
 **Languages:** Python, Java, C, SQL, JavaScript, HTML/CSS
-**Frameworks/Libs:** React, Vite, Tailwind, discord.py
+**Frameworks/Libs:** React, Vite, Tailwind
 **Cloud/Platforms:** Netlify (Functions), Azure, GitHub Actions
 **Tools:** Git, Linux/Unix, REST APIs, Power Automate, VS Code, JSON, dotenv
-**Concepts:** Event-driven programming, serverless, RAG, CI, logging, auth/secrets
+**Concepts:** Event-driven programming, serverless, RAG
 
 ---
 ### Hackathon Project
