@@ -20,8 +20,19 @@ Computer Science student (Software Engineering minor) who ships small, reliable 
 **Concepts:** Event-driven programming, serverless, RAG, CI, logging, auth/secrets
 
 ---
+### Safefier – Hackathon Project  
+**Role: Backend Developer + Documentation**
 
-## Projects
+- Worked on the backend safety logic and hallucination-detection checks  
+- Helped create the team slide deck for the demo  
+- Contributed to writing and organizing the README for the project repo  
+- Helped write the Devpost submission and prepare the final presentation  
+
+Devpost:[ ### Safefier – Hackathon Project  ](https://devpost.com/software/safefier?ref_content=user-portfolio&ref_feature=in_progress)                                    
+Team Repo: (https://github.com/NazimTheAllFather/Patriot_Hacks_2025/tree/feature/final-safefier-demo)
+
+
+## Personal Projects
 
 **Ridha-GPT (Personal Profile Assistant)** - React, Vite, Tailwind, Netlify Functions, OpenAI API
 
