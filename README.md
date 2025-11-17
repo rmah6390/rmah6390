@@ -20,7 +20,7 @@ Computer Science student (Software Engineering minor) who ships small, reliable 
 **Concepts:** Event-driven programming, serverless, RAG, CI, logging, auth/secrets
 
 ---
-### Hackathon Projects
+### Hackathon Project
 
  **Safefier - AI Safety Layer for Chatbots**  
 *Role: Backend Developer + Documentation*
