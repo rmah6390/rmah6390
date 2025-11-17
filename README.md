@@ -31,7 +31,8 @@ Computer Science student (Software Engineering minor) who ships small, reliable 
 - Helped write the Devpost submission and prepare the final presentation  
 
 Devpost:[ ### Safefier – Hackathon Project  ](https://devpost.com/software/safefier?ref_content=user-portfolio&ref_feature=in_progress)                                    
-Team Repo: (https://github.com/NazimTheAllFather/Patriot_Hacks_2025/tree/feature/final-safefier-demo)
+Team Repo: https://github.com/NazimTheAllFather/Patriot_Hacks_2025/tree/feature/final-safefier-demo                  
+Demo: https://www.youtube.com/watch?v=xkmUtWncxq4
 
 
 ## Personal Projects
