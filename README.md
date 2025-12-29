@@ -7,7 +7,7 @@
 
 ## Summary
 
-Computer Science student (Software Engineering minor) who ships small, reliable software. Comfortable with Python/Java/JS, REST APIs, and serverless deploys. Recently built a chat-style profile app (RAG) and a production-ready Discord bot with clean config and minimal permissions.
+Computer Science student with a Software Engineering minor and hands-on industry experience as an AI Analyst Intern at SyncData.ai. Strong background in software engineering, automation, and AI-driven systems, with proficiency in Python, Java, JavaScript, SQL, REST APIs, and cloud-based deployments. Experience building and deploying production-ready applications, including RAG-based AI tools, automation workflows, and full-stack projects. Proven ability to translate business and data requirements into reliable software solutions. Actively seeking Software Engineering or AI/ML Engineering internships.
 
 ---
 
