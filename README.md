@@ -1,7 +1,7 @@
 # Ridha Mahmood
 
 **Email:** [rmah6390@gmail.com](mailto:rmah6390@gmail.com) • **LinkedIn:** linkedin.com/in/ridha-mahmood • **GitHub:** github.com/rmah6390                                                        
-**Location:** VA (open to relocation) • **Target:** Software Engineering / AI-ML Engineering Internships
+**Location:** VA (open to relocation) • **Target:** Software Engineering / AI Engineer Internships
 
 ---
 
