@@ -39,8 +39,9 @@ Demo: https://www.youtube.com/watch?v=xkmUtWncxq4
 
 **Ridha-GPT (Personal Profile Assistant)** - React, Vite, Tailwind, Netlify Functions, OpenAI API
 
-* Chat-style app that answers recruiter questions in sentences using retrieval over a structured JSON profile.
-* Implemented clean API layers, error handling, and environment-based config, deployed by serverless functions.                                                                 
+* Built Ridha-GPT, a ChatGPT-style profile assistant using React + Netlify Functions and OpenAI API to answer recruiter questions.
+* Implemented a lightweight RAG pipeline with embeddings + cosine similarity to generate grounded responses from resume data.
+* Deployed with secure secrets management, streaming responses, and error handling.                                                                
     **Repo:** github.com/rmah6390/ridha-gpt   • **Live:** [https://ridha-gpts.netlify.app](https://ridha-gpts.netlify.app)
 
 **Discord Bot (Python)** - discord.py, JSON storage, OAuth2
@@ -76,8 +77,8 @@ Data Structures and Algorithms, Object-Oriented Programming, Databases, Operatin
 
 ## Experience & Other
 
-* Finance automation background (Power Automate + Microsoft Dynamics/NAV); brought automation habits into SWE.
-* Collaborative, documentation-first workflow; comfortable with GitHub PRs and issue tracking.
+* Worked with internal teams to translate requirements into clear updates, using a documentation-first workflow with issue tracking and pull requests.
+* Gained hands-on experience with LLM concepts, prompt workflows, and text-based analysis, supporting AI-driven product goals.
 
 ---
 
