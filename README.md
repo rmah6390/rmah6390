@@ -55,7 +55,7 @@ Demo: https://www.youtube.com/watch?v=xkmUtWncxq4
 
 ## Education
 
-**B.S. Computer Science** - George Mason University (Expected May 2026)
+**B.S. Computer Science** - George Mason University (Expected December 2026)
 Minor: **Software Engineering**
 
 ---
