@@ -13,11 +13,12 @@ Computer Science student with a Software Engineering minor and hands-on industry
 
 ## Technical Skills
 
-**Languages:** Python, Java, C, SQL, JavaScript, HTML/CSS
-**Frameworks/Libs:** React, Vite, Tailwind
-**Cloud/Platforms:** Netlify (Functions), Azure, GitHub Actions
-**Tools:** Git, Linux/Unix, REST APIs, Power Automate, VS Code, JSON, dotenv
-**Concepts:** Event-driven programming, serverless, RAG
+**Languages:** Python, Java, C, SQL, JavaScript, TypeScript, HTML/CSS  
+**Frameworks/Libraries:** React, Vite, Tailwind CSS  
+**Cloud/Platforms:** Azure, Netlify Functions  
+**Tools:** Git, GitHub, GitHub Actions, Linux/Unix, VS Code, REST APIs, Power Automate, JSON, dotenv  
+**Concepts:** Event-driven programming, Serverless architecture, RAG (Retrieval-Augmented Generation)
+
 
 ---
 ### Hackathon Project
